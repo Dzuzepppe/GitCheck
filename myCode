@@ -11,6 +11,5 @@ function local1()
 	origin changeeee
 }
 function origin(){
-local1();
-local1();
+
 }
