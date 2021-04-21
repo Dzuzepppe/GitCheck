@@ -4,3 +4,5 @@ change local
 ccc
 ddd
 change from git
+
+function local1(){}
