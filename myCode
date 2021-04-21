@@ -5,11 +5,7 @@ ccc
 ddd
 change from git
 
-function local1()
-{
-	local change
-	origin changeeee
-}
+
 function origin(){
 local1();
 local1();
