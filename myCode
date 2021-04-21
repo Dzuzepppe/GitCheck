@@ -10,4 +10,6 @@ function local1()
 	local change
 	origin changeeee
 }
-function origin(){}
+function origin(){
+local1();
+}
