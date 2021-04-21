@@ -12,4 +12,5 @@ function local1()
 }
 function origin(){
 local1();
+local1();
 }
