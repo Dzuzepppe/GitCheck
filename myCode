@@ -13,4 +13,5 @@ function local1()
 function origin(){
 local1();
 local1();
+ origin change again
 }
